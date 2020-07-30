@@ -63,6 +63,7 @@ The Jupyter Notebook includes the workflow of registering, training, data extrac
 
 - Baseline[X101-FPN] with Mask R-CNN
 - 240 images for training and 24 for validation (images from Google maps and Zillow, validation images randomly selected)
+- [Download Model Final](https://github.com/AnaisGuillem/historicplacesmerced/blob/master/trained_models/house_segmentation/README.md)
 
 <img src="imagesREADME/GetBoxesDemo.png" width="350"><img src="imagesREADME/GetMaskDemo.png" width="350">
 
