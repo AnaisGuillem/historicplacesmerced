@@ -28,7 +28,9 @@ It is important to keep track of the preservation of this buildings , however, o
 ##### Description 
 
 This program currently supports 3 functionalities: 1. Download and naming of images using URLs, 2. Dynamic scraping using Selenium Webdriver and Jsoup, 3. Google Maps Street View API (key is required). The idea is to automatize the acquisition of images (it can be used to acquire any other information from the web) for the data preservation and research of the Historical Places Merced.  The idea behind this project is automate the image acquisition of houses in the city of Merced and use it to extract and compare images from different dates using Convolutional Neural Networks. 
+
 [View dataset](https://drive.google.com/drive/folders/1a1zOns6DGPm_dWWJnEnxX0slyK_vEvRZ?usp=sharing)
+
 <img src="imagesREADME/DataSourcesDiagram.png" width="500">
 
 ##### Pre-requisites 
